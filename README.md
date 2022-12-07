@@ -1,4 +1,3 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKDLpFLRwj7kqX8J_2_6KS5ZwUAzlNZ7WnKA&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Isha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://fcit.usf.edu/matrix/wp-content/uploads/2017/01/DanceBot-3-Med.gif">
